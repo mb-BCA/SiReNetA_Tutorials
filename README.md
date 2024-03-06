@@ -15,6 +15,9 @@ The core idea behind SRNA is to reveal the properties of networks by probing how
 
 ![Stimulus-Response Diagram](#)
 
+**Figure–1:** Schematic representation of *Stimulus-Response Network Analysis* as a methodology. The idea is to uncover the properties of networks by observing how nodes respond to a small perturbation (stimulus) applied locally to one node.
+&nbsp;
+
 Analogously, *SRNA* investigates the properties of a network by applying a stimulus in one node and observing how the rest of the nodes respond, as illustrated in Fig. 1B. In our case, the dynamical propagation model of choice resembles the "material" of which the brick is made of, since it is this model which determines how the stimulus propagates. Unlike in the case of the brick, in *RSNA* canonical propagation model is repleceable, thus allowing to investigate the properties of a network "made of different materials." 
 
 
