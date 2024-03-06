@@ -108,13 +108,17 @@ where $D$ is the diagonal matrix of node degrees and $`L = - D + A`$ is the Jaco
 
 
 
+##### References and Citation
+
+- G. Zamora-López and M. Gilson "*[An integrative dynamical perspective for graph theory and the analysis of complex networks](#)*" Chaos, (*in press*).  [Preprint](https://doi.org/10.48550/arXiv.2307.02449).
+
 
 
 
 &nbsp;
 ## 2. What will you find here
 
-This repository is the entry point for interested users of "*Stimulus-Response Network Analysis (SRNA)* and its corresponding Python library *[SiReNetA](https://github.com/mb-BCA/SiReNetA)* . So far, there is no official documentation for neither the analysis tools nor the library exist, but here we provide a set of tutorials and examples––in the form of Jupyter notebooks––to help interested users walk through the basics and specific examples.
+This repository is the entry point for interested users of "*Stimulus-Response Network Analysis (SRNA)* and its corresponding Python library *[SiReNetA](https://github.com/mb-BCA/SiReNetA)* . So far, there is no official documentation for neither the analysis tools nor the library, but here we provide a set of tutorials and examples––in the form of Jupyter notebooks––to help interested users walk through the basics and specific examples.
 
 #### Tutorial notebooks
 
@@ -134,10 +138,6 @@ This repository is the entry point for interested users of "*Stimulus-Response N
 #### Getting further documentation
 
 The documentation of the *SiReNetA* library can be accessed 'online' as usual for other python packages. Typing either `help(module_name)` or `module_name?` in an IPython interactive session will display the docstring of the module. Equally, `module_name.func_name?` will show the usage instructions for each function.
-
-#### References and Citation
-
-- G. Zamora-López and M. Gilson "*[An integrative dynamical perspective for graph theory and the analysis of complex networks](#)*" Chaos, (*in press*).  [Preprint](https://doi.org/10.48550/arXiv.2307.02449).
 
 
 
