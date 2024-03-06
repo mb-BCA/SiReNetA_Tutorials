@@ -1,7 +1,7 @@
 # SiReNetA – Tutorials
 
 
-## 1. What is Response Network Analysis?
+## 1. What is Stimulus-Response Network Analysis?
 
 <!-- Graph theory constitutes a widely used and established field providing powerful tools for the characterization of complex networks. However, the diversity of complex networks studied nowadays overcomes the capabilities of graph theory (originally developed for binary adjacency matrices) to understand networks and their function. In the recent years plenty of alternative metrics have been proposed which are–one way or another–based on dynamical phenomena happening on networks.
 -->
@@ -15,12 +15,8 @@ The core idea behind SRNA is to reveal the properties of networks by probing how
 
 ![Stimulus-Response Diagram](#)
 
-Analogously, *SRNA* aims at investigating the properties of a network by applying a stimulus in one node and observing how the rest of the nodes respond, as illustrated in Fig. 1B. In our case, the dynamical propagation model of choice resembles the "material" of which the brick is made of, since it is this model which determines how the stimulus propagates. Unlike in the case of the brick, in *RSNA* canonical propagation model is repleceable, thus allowing to investigate the properties of a network "made of different materials." 
+Analogously, *SRNA* investigates the properties of a network by applying a stimulus in one node and observing how the rest of the nodes respond, as illustrated in Fig. 1B. In our case, the dynamical propagation model of choice resembles the "material" of which the brick is made of, since it is this model which determines how the stimulus propagates. Unlike in the case of the brick, in *RSNA* canonical propagation model is repleceable, thus allowing to investigate the properties of a network "made of different materials." 
 
-
-##### References and Citation
-
-- G. Zamora-López and M. Gilson "*[An integrative dynamical perspective for graph theory and the analysis of complex networks](#)*" Chaos, (*in press*).  [Preprint](https://doi.org/10.48550/arXiv.2307.02449).
 
 
 ### Working pipeline in Stimulus-Response Network Analysis
@@ -109,12 +105,15 @@ where $D$ is the diagonal matrix of node degrees and $`L = - D + A`$ is the Jaco
 
 
 
+
+
+
 &nbsp;
 ## 2. What will you find here
 
-This repository is the entry point for users of *SRNA* and the Python library *SiReNetA* to carry out the analyses. There is no official documentation for either *SiReNetA* but a set of tutorials and examples (in the form of Jupyter notebooks) will walk the users through the basics and specific examples.
+This repository is the entry point for interested users of "*Stimulus-Response Network Analysis (SRNA)* and its corresponding Python library *[SiReNetA](https://github.com/mb-BCA/SiReNetA)* . So far, there is no official documentation for neither the analysis tools nor the library exist, but here we provide a set of tutorials and examples––in the form of Jupyter notebooks––to help interested users walk through the basics and specific examples.
 
-#### List of Tutorial notebooks
+#### Tutorial notebooks
 
 1. *[GettingStarted.ipynb](#)*: A quick overview of what Stimulus-Response Network Analysis is. Use the sample graph with 8 nodes.
 2. *[Fundamentals.ipynb](#)*: Fundamentals of Stimulus-Response Network Analysis. Undertanding the stimulus-responses at all levels (pairs, nodes and network). Illustration and interpretation of pair-wise responses. Examples: directed and undirected chains. Validity in weighted networks.
@@ -122,11 +121,22 @@ This repository is the entry point for users of *SRNA* and the Python library *S
 5. An overview of the different canonical models.
 
 
-#### List of examples and code to reproduce papers
+#### Specific examples and code to reproduce papers
 
 - Comparison of canonical models, *[Examples_CanonicalModels.ipynb](#)*
 - Validation of time-to-peak distance with graph distance.
 - Network comparison under Stimulus-Response Network Analysis.
+
+
+#### Getting further documentation
+
+The documentation of the *SiReNetA* library can be accessed 'online' as usual for other python packages. Typing either `help(module_name)` or `module_name?` in an IPython interactive session will display the docstring of the module. Equally, `module_name.func_name?` will show the usage instructions for each function.
+
+#### References and Citation
+
+- G. Zamora-López and M. Gilson "*[An integrative dynamical perspective for graph theory and the analysis of complex networks](#)*" Chaos, (*in press*).  [Preprint](https://doi.org/10.48550/arXiv.2307.02449).
+
+
 
 
 &nbsp;
