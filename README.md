@@ -112,7 +112,7 @@ where $D$ is the diagonal matrix of node degrees and $`L = - D + A`$ is the Jaco
 
 ##### References and Citation
 
-- G. Zamora-López and M. Gilson "*[An integrative dynamical perspective for graph theory and the analysis of complex networks](#)*" Chaos, (*in press*).  [Preprint](https://doi.org/10.48550/arXiv.2307.02449).
+- G. Zamora-López and M. Gilson "*[An integrative dynamical perspective for graph theory and the analysis of complex networks](https://doi.org/10.1063/5.0202241)*" Chaos 34, 041501 (2024).
 
 
 
