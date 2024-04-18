@@ -37,7 +37,7 @@ This repository is the entry point for interested users of *Stimulus-Response Ne
 
 
 &nbsp;
-### GETTING FURHTER DOCUMENTATION
+### GETTING FURTHER DOCUMENTATION
 
 The documentation of the *SiReNetA* library can be accessed 'online' as usual for other python packages. Typing either `help(module_name)` or `module_name?` in an IPython interactive session will display the docstring of the module. Equally, `module_name.func_name?` will show the usage instructions for each function.
 
