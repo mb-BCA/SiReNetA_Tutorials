@@ -8,18 +8,18 @@
 
 
 
-### 1. What will you find here
+### What will you find here
 
 This repository is the entry point for interested users of *Stimulus-Response Network Analysis (SRNA)* and its corresponding Python library *[SiReNetA](https://github.com/mb-BCA/SiReNetA)* . Here we provide a set of tutorials and examples––in the form of Jupyter notebooks––to help interested users walk through the basics and specific examples.
 
-#### Introductory documentation
+##### Introductory documentation
 
 1. *[Docs\_1\_Whatis_Sireneta](Docs_1_Whatis_Sireneta.md)* : Short description here.
 2. *[Docs\_2\_Canonical_Models](Docs_2_Canonical_Models.md)* : Short description here.
 2. …
 
 
-#### Tutorial notebooks
+##### Tutorial notebooks
 
 1. *[GettingStarted.ipynb](1_GettingStarted.ipynb)*: A quick overview of what Stimulus-Response Network Analysis is. Use the sample graph with 8 nodes.
 2. *[Fundamentals.ipynb](2_Basics_StimResponses.ipynb)*: Fundamentals of Stimulus-Response Network Analysis. Undertanding the stimulus-responses at all levels (pairs, nodes and network). Illustration and interpretation of pair-wise responses. Examples: directed and undirected chains. Validity in weighted networks.
@@ -27,7 +27,7 @@ This repository is the entry point for interested users of *Stimulus-Response Ne
 5. An overview of the different canonical models.
 
 
-#### Specific examples and code to reproduce papers
+##### Specific examples and code to reproduce papers
 
 - Comparison of canonical models, *[Examples_CanonicalModels.ipynb](#)*
 - Validation of time-to-peak distance with graph distance.
@@ -37,12 +37,12 @@ This repository is the entry point for interested users of *Stimulus-Response Ne
 
 
 &nbsp;
-### 2. Getting further documentation
+### Getting further documentation
 
 The documentation of the *SiReNetA* library can be accessed 'online' as usual for other python packages. Typing either `help(module_name)` or `module_name?` in an IPython interactive session will display the docstring of the module. Equally, `module_name.func_name?` will show the usage instructions for each function.
 
 
-### 3. References and Citation
+### References and Citation
 
 - G. Zamora-López and M. Gilson *[An integrative dynamical perspective for graph theory and the analysis of complex networks.](https://doi.org/10.1063/5.0202241)* Chaos 34, 041501 (2024).
 - M. Gilson, N. Kouvaris, et al. *[Network analysis of whole-brain fMRI
