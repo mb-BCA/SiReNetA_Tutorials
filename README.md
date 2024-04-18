@@ -8,7 +8,7 @@
 
 
 
-### What will you find here
+### 1. What will you find here
 
 This repository is the entry point for interested users of *Stimulus-Response Network Analysis (SRNA)* and its corresponding Python library *[SiReNetA](https://github.com/mb-BCA/SiReNetA)* . Here we provide a set of tutorials and examples––in the form of Jupyter notebooks––to help interested users walk through the basics and specific examples.
 
@@ -37,12 +37,12 @@ This repository is the entry point for interested users of *Stimulus-Response Ne
 
 
 &nbsp;
-### Getting further documentation
+### 2. Getting further documentation
 
 The documentation of the *SiReNetA* library can be accessed 'online' as usual for other python packages. Typing either `help(module_name)` or `module_name?` in an IPython interactive session will display the docstring of the module. Equally, `module_name.func_name?` will show the usage instructions for each function.
 
 
-### References and Citation
+### 3. References and Citation
 
 - G. Zamora-López and M. Gilson *[An integrative dynamical perspective for graph theory and the analysis of complex networks.](https://doi.org/10.1063/5.0202241)* Chaos 34, 041501 (2024).
 - M. Gilson, N. Kouvaris, et al. *[Network analysis of whole-brain fMRI
@@ -52,7 +52,7 @@ dynamics: A new framework based on dynamic communicability.](https://doi.org/10.
 
 
 &nbsp;
-### NOTES
+#### NOTES
 
 List of recommendations and further topics that should be covered in the tutorials.
 
