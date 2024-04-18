@@ -1,4 +1,4 @@
-> WARNING: REPOSITORY UNDER CONSTRUCTION !! First complete release expected end of April 2024, stay tuned ! Or follow @GZamora_Lopez in Twitter.
+> WARNING: REPOSITORY UNDER CONSTRUCTION !! First complete release expected during May 2024, stay tuned ! Or follow @GZamora_Lopez in Twitter.
 
 
 &nbsp;
