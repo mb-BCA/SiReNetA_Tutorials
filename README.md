@@ -23,8 +23,8 @@ This repository is the entry point for interested users of *Stimulus-Response Ne
 
 1. *[GettingStarted.ipynb](1_GettingStarted.ipynb)* : A quick overview of what Stimulus-Response Network Analysis is. Use the sample graph with 8 nodes.
 2. *[Fundamentals.ipynb](2_Basics_StimResponses.ipynb)* : Fundamentals of Stimulus-Response Network Analysis. Undertanding the stimulus-responses at all levels (pairs-wise, node-wise and network level). Illustration and interpretation of pair-wise responses. Examples: directed and undirected chains. Validity in weighted networks.
-3. *[Extracting_Metrics.ipynb](#)* : global-responses, time-to-peak / time-to-threshold distances. Comparison of TTP for leaky-cascade and the continuous diffusion (as used in Arnaudon's paper).
-4. An overview of the different canonical models.
+3. *[ExtractingMetrics.ipynb](#)* : global-responses, time-to-peak / time-to-threshold distances. Comparison of TTP for leaky-cascade and the continuous diffusion (as used in Arnaudon's paper).
+4. *[CanonicalModels.ipynb :](#)* An overview of the different canonical models.
 5. *[ComparingNetworks.ipynb](#)* : Should reproduce Fig. 3 of the Chaos paper.
 6. *[WeighteNetworks.ipynb](#)* : Illustrate that we can naturally deal with weighted nets. How changing the weights alters the "topology" of the interactions.
 
