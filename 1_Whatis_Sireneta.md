@@ -17,11 +17,11 @@ The core idea is to reveal the properties of networks by probing how the nodes o
 **Figure–1:** Physical analogy to *Stimulus-Response Network Analysis* in the form of a brick. The response of the brick to a tapping depends on the material the brick is made of. A metallic brick may start vibrating (which we may eventually hear) but in a brick of soft rubber the propagation of the perturbation is likely to be absorved and barely be noticed at the other side.   
 &nbsp;
 
-Analogously, *SRNA* aims at investigating the properties of a network by applying a stimulus in one node and observing how the rest of the nodes respond, as illustrated in Fig. 1B. In our case, the dynamical propagation model of choice resembles the "material" of which the brick is made of, since it is this model which determines how the stimulus propagates. Unlike in the case of the brick, in *RSNA* the canonical propagation model is repleceable, thus allowing to investigate the properties of a network "made of different materials." 
+Analogously, *SRNA* aims at investigating the properties of a network by applying a stimulus in one node and observing how the rest of the nodes respond, as illustrated in Fig. 2. In our case, the dynamical propagation model of choice is like the material" of which the brick is made of, since it is this model which determines how the stimulus propagates along the network. In *RSNA* the canonical propagation model is repleceable, thus allowing to investigate the properties of one network is if it were "made of different materials." 
 
-![Stimulus-Response on a simple network](#)
+![Stimulus-Response on a simple network](./Images/Docs_1_Fig2.jpg)
 
-**Figure–2:** Schematic representation of *Stimulus-Response Network Analysis* as a methodology. The idea is to uncover the properties of networks by observing how nodes respond to a small perturbation (stimulus) applied locally to one node.
+**Figure–2:** Schematic representation of *Stimulus-Response Network Analysis* as a methodology. The idea is to investigate the properties of networks by observing how nodes respond to a small perturbation (stimulus) applied locally to one node, which can be done for a variety of canonical propagation models governing how the stimulus propagates.
 &nbsp;
 
 
@@ -44,7 +44,7 @@ Steps #3 and #4 are an attempt to unify the analysis tools, regardless of the ca
 Read more …
 
 - *[Docs\_2\_Canonical_Models](Docs_2_Canonical_Models.md)* : Description of simple (canonical) models for various classes of dynamical propagation on networks, following a variety of assumptions and constraints. 
-- *[Docs\_3\_xxxxxxxxx](#)* : Short description here.
+- *[Docs\_3\_xxxxxxxxx](#)* : Short description follows …
 
 Or start playing around with SiReNetA …
 
