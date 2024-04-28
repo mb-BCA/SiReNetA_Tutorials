@@ -21,19 +21,18 @@ This repository is the entry point for interested users of *Stimulus-Response Ne
 
 #### Tutorial notebooks
 
-1. *[GettingStarted.ipynb](1_GettingStarted.ipynb)* : A quick overview of what Stimulus-Response Network Analysis is. Use the sample graph with 8 nodes.
-2. *[Fundamentals.ipynb](2_Basics_StimResponses.ipynb)* : Fundamentals of Stimulus-Response Network Analysis. Undertanding the stimulus-responses at all levels (pairs-wise, node-wise and network level). Illustration and interpretation of pair-wise responses. Examples: directed and undirected chains. Validity in weighted networks.
-3. *[Extracting_Metrics.ipynb](#)* : global-responses, time-to-peak / time-to-threshold distances. Comparison of TTP for leaky-cascade and the continuous diffusion (as used in Arnaudon's paper).
-4. An overview of the different canonical models.
-5. *[ComparingNetworks.ipynb](#)* : Should reproduce Fig. 3 of the Chaos paper.
-6. *[WeighteNetworks.ipynb](#)* : Illustrate that we can naturally deal with weighted nets. How changing the weights alters the "topology" of the interactions.
+1. *[Getting Started and Overview](1_GettingStarted.ipynb)* : A quick overview of what Stimulus-Response Network Analysis is. Use the sample graph with 8 nodes.
+2. *[Response to Stimulus](2_Basics_StimResp.ipynb)* : Fundamentals of Stimulus-Response Network Analysis. Undertanding the stimulus-responses at all levels (pairs-wise, node-wise and network level). Illustration and interpretation of pair-wise responses for undirected and directed chains.
+3. *[Extracting Metrics](3_Basics_ExtractMetrics.ipynb)* : Global-responses, time-to-peak / time-to-saturation distances. Comparison of TTP for leaky-cascade and the continuous diffusion (as used in Arnaudon's paper).
+4. *[Canonical Models](4_Basics_CanonMods.ipynb)* : An overview of the different canonical models (Fig. 2 of the Chaos paper).
+5. *[Comparing Networks](5_UseCase_CompareNets.ipynb)* : Use case to compare networks by aligning the global response for the leaky cascade (Fig. 3 of the Chaos paper).
+6. *[Network Distance](6_UseCase_NetDist.ipynb)* : Use case with "redefinition" of the geodesic graph distance using the leaky cascade via the time-to-peak (Fig. 4 of Chaos paper).
+7. *[Weighted Networks](7_UseCase_WeighteNets.ipynb)* : Use case to illustrate that the framework naturally deals with weighted networks, with a focus on the doscrete and leaky cascades. How changing the weights alters the "topology" of the interactions.
+
 
 #### Specific examples and code to reproduce papers
 
-- Comparison of canonical models, *[Examples_CanonicalModels.ipynb](#)*
-- Validation of time-to-peak distance with graph distance.
-- Network comparison under Stimulus-Response Network Analysis.
-
+* [TODO] Comparison of metrics from different propagation models: how differently do they describe a graph?
 
 
 &nbsp;
