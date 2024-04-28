@@ -18,17 +18,15 @@ This repository is the entry point for interested users of *Stimulus-Response Ne
 2. *[Docs\_2\_Canonical_Models](Docs_2_Canonical_Models.md)* : Description of simple (canonical) models for various classes of dynamical propagation on networks, following a variety of assumptions and constraints. 
 2. …
 
-
 #### Tutorial notebooks
 
-1. *[Getting Started and Overview](1_GettingStarted.ipynb)* : A quick overview of what Stimulus-Response Network Analysis is. Use the sample graph with 8 nodes.
-2. *[Response to Stimulus](2_Basics_StimResp.ipynb)* : Fundamentals of Stimulus-Response Network Analysis. Undertanding the stimulus-responses at all levels (pairs-wise, node-wise and network level). Illustration and interpretation of pair-wise responses for undirected and directed chains.
+1. *[Getting Started and Overview](1_GettingStarted.ipynb)* : A quick overview of what Stimulus-Response Network Analysis is.
+2. *[Response to Stimulus](2_Basics_StimResp.ipynb)* : Fundamentals of Stimulus-Response Network Analysis. Undertanding the stimulus-responses at all levels (pair-wise, node-wise and network level). Illustration and interpretation of pair-wise responses for undirected and directed chains.
 3. *[Extracting Metrics](3_Basics_ExtractMetrics.ipynb)* : Global-responses, time-to-peak / time-to-saturation distances. Comparison of TTP for leaky-cascade and the continuous diffusion (as used in Arnaudon's paper).
-4. *[Canonical Models](4_Basics_CanonMods.ipynb)* : An overview of the different canonical models (Fig. 2 of the Chaos paper).
+4. *[Canonical Models](4_Basics_CanonMods.ipynb)* : Presentation of the different canonical models (Fig. 2 of the Chaos paper).
 5. *[Comparing Networks](5_UseCase_CompareNets.ipynb)* : Use case to compare networks by aligning the global response for the leaky cascade (Fig. 3 of the Chaos paper).
 6. *[Network Distance](6_UseCase_NetDist.ipynb)* : Use case with "redefinition" of the geodesic graph distance using the leaky cascade via the time-to-peak (Fig. 4 of Chaos paper).
 7. *[Weighted Networks](7_UseCase_WeighteNets.ipynb)* : Use case to illustrate that the framework naturally deals with weighted networks, with a focus on the doscrete and leaky cascades. How changing the weights alters the "topology" of the interactions.
-
 
 #### Specific examples and code to reproduce papers
 

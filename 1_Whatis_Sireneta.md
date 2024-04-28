@@ -6,22 +6,22 @@
 
 Graph theory constitutes a widely used and established field providing powerful tools for the characterization of networks. However, the diversity of complex networks studied nowadays overcomes the capabilities of graph theory to understand networks and their function, since it was originally developed from a combinatorial and probabilistic point of view, for binary graphs. 
 
-*Stimulus-Response Network Analysis* (SRNA) is a paradigm shift in the way we study complex networks and interpret their results: from a data-driven (combinatorial) tradition to a (dynamical) model-based data analysis perspective. In the recent years plenty of alternative metrics have been proposed which are–one way or another–based on dynamical phenomena happening on networks. However, for many of these metrics the underlying dynamical model and its assumptions are hidden, or not openly acknowledged. To make things more confusing, network metrics are usually presented with a sense of universality, "*as if*" they were useful and interpretable in any network despite their specific underlying (dynamical) assumptions.
+*Stimulus-Response Network Analysis* (SRNA) is a paradigm shift in the way we study complex networks and interpret their results: from a (combinatorial) data-driven tradition to a (dynamical) model-based data analysis perspective. In the recent years plenty of alternative metrics have been proposed which are–one way or another–based on dynamical phenomena happening on networks. However, for many of these metrics the underlying dynamical model and its assumptions are hidden, or not openly acknowledged. To make things more confusing, network metrics are usually presented with a sense of universality, "*as if*" they were useful and interpretable in any network despite their specific underlying (dynamical) assumptions.
 The goal of SRNA is to take full advantage of model-based network analyses with transparency at the front. To encompass existing metrics into an integrated methodology and to provide network analysis tools in which the underlying assumptions are recognized from the beginning, thus favouring the interpretability of results.
 
-The core idea is to reveal the properties of networks by probing how the nodes of a network respond to small, localised perturbations (e.g., a stimulus of unit amplitude). Imagine a rectangular brick made of some material. Imagine we tap the brick at one of its sides with a small hammer and measure the resulting responses (e.g., vibrations or displacement) at different sites of the brick, Fig1. The manner in which the "kick" propagates throughout the brick–and consequently the responses observed–depends on the material the brick is made of. A wooden rod will tend to show a displacement, a metallic brick may start vibrating and a brick made of soft rubber will attenuate the propagation of the perturbation. By carefully studying the responses at differnt sites, we can derive the properties of the brick and its internal composition.
+The core idea is to reveal the properties of networks by probing how the nodes of a network respond to small, localised perturbations (e.g., a stimulus of unit amplitude). Imagine a rectangular brick made of some material. Imagine we tap the brick at one of its sides with a small hammer and measure the resulting responses (e.g., vibrations or displacement) at different sites of the brick, Fig. 1. The manner in which the "kick" propagates throughout the brick–and consequently the responses observed–depends on the material the brick is made of. A wooden rod will tend to show a displacement, a metallic brick may start vibrating and a brick made of soft rubber will attenuate the propagation of the perturbation. By carefully studying the responses at differnt sites, we can derive the properties of the brick and its internal composition.
 
 
-![Stimulus-Response on a brick](#)
+![Stimulus-Response on a brick](./Images/Docs_1_Fig1.jpg)
 
 **Figure–1:** Physical analogy to *Stimulus-Response Network Analysis* in the form of a brick. The response of the brick to a tapping depends on the material the brick is made of. A metallic brick may start vibrating (which we may eventually hear) but in a brick of soft rubber the propagation of the perturbation is likely to be absorved and barely be noticed at the other side.   
 &nbsp;
 
-Analogously, *SRNA* aims at investigating the properties of a network by applying a stimulus in one node and observing how the rest of the nodes respond, as illustrated in Fig. 1B. In our case, the dynamical propagation model of choice resembles the "material" of which the brick is made of, since it is this model which determines how the stimulus propagates. Unlike in the case of the brick, in *RSNA* the canonical propagation model is repleceable, thus allowing to investigate the properties of a network "made of different materials." 
+Analogously, *SRNA* aims at investigating the properties of a network by applying a stimulus in one node and observing how the rest of the nodes respond, as illustrated in Fig. 2. In our case, the dynamical propagation model of choice is like the material of which the brick is made of, since it is this model which determines how the stimulus propagates along the network. In *RSNA* the canonical propagation model is repleceable, thus allowing to investigate the properties of one network as if it were "made of different materials." 
 
-![Stimulus-Response on a simple network](#)
+![Stimulus-Response on a simple network](./Images/Docs_1_Fig2.jpg)
 
-**Figure–2:** Schematic representation of *Stimulus-Response Network Analysis* as a methodology. The idea is to uncover the properties of networks by observing how nodes respond to a small perturbation (stimulus) applied locally to one node.
+**Figure–2:** Schematic representation of *Stimulus-Response Network Analysis* as a methodology. The idea is to investigate the properties of networks by observing how nodes respond to a small perturbation (stimulus) applied locally to one node, which can be done for a variety of canonical propagation models governing how the stimulus propagates.
 &nbsp;
 
 
@@ -44,7 +44,7 @@ Steps #3 and #4 are an attempt to unify the analysis tools, regardless of the ca
 Read more …
 
 - *[Docs\_2\_Canonical_Models](Docs_2_Canonical_Models.md)* : Description of simple (canonical) models for various classes of dynamical propagation on networks, following a variety of assumptions and constraints. 
-- *[Docs\_3\_xxxxxxxxx](#)* : Short description here.
+- *[Docs\_3\_xxxxxxxxx](#)* : Short description follows …
 
 Or start playing around with SiReNetA …
 
