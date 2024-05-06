@@ -9,7 +9,7 @@
 
 (Temptative) list of documents (.md files) that we should have.
 
-- 1. What is sireneta? Overall description of what is Stimulus-Response Network Analysis.
+- (DONE) 1. What is sireneta? Overall description of what is Stimulus-Response Network Analysis.
 - 2. Canonical models. Summary of the (for now) five canonical models. Their equations and illustrations of the time-series for some simple graph (e.g., the N8 graph in the Chaos paper).
 
 
