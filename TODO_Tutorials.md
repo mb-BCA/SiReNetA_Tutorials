@@ -37,8 +37,8 @@ Temptative list and content of the Tutorials:
 
 ### Specific examples, reproduce papers, etc.
 
-- A notebook to reproduce results of Fig. 3 in the Chaos (2024) paper. The network comparison via the 
-- A notebook to reproduce results of Fig. 4 in the Chaos (2024) paper. The definition of time-to-peak for the random, lattice and SF graphs. Show how the linear relation changes with tau, and relate to Matt's analytical estimate of t*.
+- (DONE) A notebook to reproduce results of Fig. 3 in the Chaos (2024) paper.
+- (DONE) A notebook to reproduce results of Fig. 4 in the Chaos (2024) paper.
 - Renormalization for the LeakyCascade and the ContinuousDiffusion models. Show what the non-normalised and the intrinsic responses mean. Then, how they are related to the regressed version of the responses.
 
 
