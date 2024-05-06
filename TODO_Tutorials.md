@@ -3,7 +3,7 @@
 
 ### General
 
-List here …
+- Replace eigenvalue with largest norm by largest real component (?)
 
 ### Documentation, tutorial explanations, etc.
 
