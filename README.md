@@ -25,7 +25,7 @@ This repository is the entry point for interested users of *Stimulus-Response Ne
 3. *[Canonical Models](Notebooks_Tutorials/3_Basics_CanonModels.ipynb)* : Presentation of the different canonical models (Fig. 2 of the Chaos paper).
 4. *[Comparing Networks](Notebooks_Tutorials/4_UseCase_CompareNets.ipynb)* : Use case to compare networks by aligning the global response for the leaky cascade (Fig. 3 of the Chaos paper).
 5. *[Network Distance](Notebooks_Tutorials/5_UseCase_NetDist.ipynb)* : Use case with "redefinition" of the geodesic graph distance using the leaky cascade via the time-to-peak (Fig. 4 of Chaos paper).
-6. *[Weighted Networks](Notebooks_Tutorials/6_UseCase_WeightedNets.ipynb)* : Use case to illustrate that the framework naturally deals with weighted networks, with a focus on the doscrete and leaky cascades. How changing the weights alters the "topology" of the interactions.
+6. *[Weighted Networks](Notebooks_Tutorials/6_Basics_WeightedNets.ipynb)* : Use case to illustrate that the framework naturally deals with weighted networks, with a focus on the doscrete and leaky cascades. How changing the weights alters the "topology" of the interactions.
 
 #### Code to reproduce papers
 
