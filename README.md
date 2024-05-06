@@ -14,22 +14,22 @@ This repository is the entry point for interested users of *Stimulus-Response Ne
 
 #### Introductory documentation
 
-1. *[Docs\_1\_Whatis_Sireneta](Docs_1_Whatis_Sireneta.md)* : A short overview of the main ideas and goals of stimulus-response network analysis.
-2. *[Docs\_2\_Canonical_Models](Docs_2_Canonical_Models.md)* : Description of simple (canonical) models for various classes of dynamical propagation on networks, following a variety of assumptions and constraints. 
+1. *[1\_Whatis_Sireneta](1_Whatis_Sireneta.md)* : A short overview of the main ideas and goals of stimulus-response network analysis.
+2. *[2\_Canonical_Models](2_Canonical_Models.md)* : Description of simple (canonical) models for various classes of dynamical propagation on networks, following a variety of assumptions and constraints. 
 2. …
 
 #### Tutorial notebooks
 
-1. *[Getting Started and Overview](1_GettingStarted.ipynb)* : A quick overview of what Stimulus-Response Network Analysis is.
-2. *[Response to Stimulus and Calculating Metrics](2_Basics_StimRespMetrics.ipynb)* : Fundamentals of Stimulus-Response Network Analysis. Undertanding the stimulus-responses at all levels (pair-wise, node-wise and network level). Illustration and interpretation of pair-wise responses for undirected and directed chains. Global-responses, time-to-peak / time-to-saturation distances. **NOT THERE YET, BUT NEEDED??? Comparison of TTP for leaky-cascade and the continuous diffusion (as used in Arnaudon's paper).**
-3. *[Canonical Models](3_Basics_CanonMods.ipynb)* : Presentation of the different canonical models (Fig. 2 of the Chaos paper).
+1. *[Getting Started and Overview](Notebooks_Tutorials/1_GettingStarted.ipynb)* : A quick overview of what Stimulus-Response Network Analysis is.
+2. *[Response to Stimulus and Calculating Metrics](Notebooks_Tutorials/2_Basics_StimRespMetrics.ipynb)* : Fundamentals of Stimulus-Response Network Analysis. Undertanding the stimulus-responses at all levels (pair-wise, node-wise and network level). Illustration and interpretation of pair-wise responses for undirected and directed chains. Global-responses, time-to-peak / time-to-saturation distances. **NOT THERE YET, BUT NEEDED??? Comparison of TTP for leaky-cascade and the continuous diffusion (as used in Arnaudon's paper).**
+3. *[Canonical Models](Notebooks_Tutorials/3_Basics_CanonMods.ipynb)* : Presentation of the different canonical models (Fig. 2 of the Chaos paper).
 4. *[Comparing Networks](4_UseCase_CompareNets.ipynb)* : Use case to compare networks by aligning the global response for the leaky cascade (Fig. 3 of the Chaos paper).
-5. *[Network Distance](5_UseCase_NetDist.ipynb)* : Use case with "redefinition" of the geodesic graph distance using the leaky cascade via the time-to-peak (Fig. 4 of Chaos paper).
-6. *[Weighted Networks](6_UseCase_WeighteNets.ipynb)* : Use case to illustrate that the framework naturally deals with weighted networks, with a focus on the doscrete and leaky cascades. How changing the weights alters the "topology" of the interactions.
+5. *[Network Distance](Notebooks_Tutorials/5_UseCase_NetDist.ipynb)* : Use case with "redefinition" of the geodesic graph distance using the leaky cascade via the time-to-peak (Fig. 4 of Chaos paper).
+6. *[Weighted Networks](Notebooks_Tutorials/6_UseCase_WeighteNets.ipynb)* : Use case to illustrate that the framework naturally deals with weighted networks, with a focus on the doscrete and leaky cascades. How changing the weights alters the "topology" of the interactions.
 
-#### Specific examples and code to reproduce papers
+#### Code to reproduce papers
 
-* [TODO] Comparison of metrics from different propagation models: how differently do they describe a graph?
+See resources in folder [Reproduce_Papers/](Reproduce_Papers).
 
 
 &nbsp;
