@@ -1,6 +1,6 @@
 # Reproducible Results
 
-The code provided in this folder reproduces results and figures of papers published about Stimulus-Response Network Analysis and the *SiReNetA* library.
+The code provided in this folder reproduces results and figures of papers published regarding *Stimulus-Response Network Analysis* and the corresponding *SiReNetA* library.
 
 
 #### Chaos 2024
