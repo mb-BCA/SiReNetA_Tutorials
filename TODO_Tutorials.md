@@ -9,6 +9,7 @@
 	- **Use Cases**. Discuss more in detail specific points, "how to" style and good/bad practices.
 	- **Focus points**. Discuss more in detail specific points. Deeper analysis, help understand some problem/point better.
 	- **Repro**. Reproduce paper figures and results.
+- TODO: Add a README.md file to the folder of the tutorial notebooks (?)
 
 ### Documentation, tutorial explanations, etc.
 
