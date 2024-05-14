@@ -48,13 +48,12 @@ Read more …
 - *[Docs\_2\_Canonical_Models](Docs_2_Canonical_Models.md)* : Description of simple (canonical) models for various classes of dynamical propagation on networks, following a variety of assumptions and constraints. 
 - *[Docs\_3\_xxxxxxxxx](#)* : Short description follows …
 
-Or start playing around with SiReNetA …
+Or start playing around with SiReNetA using [https://github.com/mb-BCA/SiReNetA_Tutorials](tutorials):
 
-1. *[GettingStarted.ipynb](Notebooks_Tutorials/1_GettingStarted.ipynb)* : A quick overview of what Stimulus-Response Network Analysis is. Use the sample graph with 8 nodes.
-2. *[Fundamentals.ipynb](Notebooks_Tutorials/2_Basics_StimRespMetrics.ipynb)* : Fundamentals of Stimulus-Response Network Analysis. Undertanding the stimulus-responses at all levels (pairs-wise, node-wise and network level).
-3. *[Basic_Metrics.ipynb](#)* : Extracting metrics: global-responses, time-to-peak / time-to-threshold distances. Comparison of TTP for leaky-cascade and the continuous diffusion (as used in Arnaudon's paper).
-4. An overview of the different canonical models.
-
+1. *[Getting Started and Overview](Notebooks_Tutorials/1_GettingStarted.ipynb)* : A quick overview of what Stimulus-Response Network Analysis is. Use the sample graph with 8 nodes.
+2. *[Calculating Response to Stimulus and Metrics](Notebooks_Tutorials/2_Basics_StimRespMetrics.ipynb)* : Fundamentals of Stimulus-Response Network Analysis. Undertanding the stimulus-responses at all levels (pairs-wise, node-wise and network level).
+3. *[Canonical Models](3_Basics_CanonModels.ipynb)* : An overview of the different canonical models.
+4. Also check the different usecases for practical applications of the analysis framework.
 
 
 
