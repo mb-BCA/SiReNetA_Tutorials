@@ -50,9 +50,9 @@ Read more …
 
 Or start playing around with SiReNetA using [https://github.com/mb-BCA/SiReNetA_Tutorials](tutorials):
 
-1. *[Getting Started and Overview](Notebooks_Tutorials/1_GettingStarted.ipynb)* : A quick overview of what Stimulus-Response Network Analysis is. Use the sample graph with 8 nodes.
-2. *[Calculating Response to Stimulus and Metrics](Notebooks_Tutorials/2_Basics_StimRespMetrics.ipynb)* : Fundamentals of Stimulus-Response Network Analysis. Undertanding the stimulus-responses at all levels (pairs-wise, node-wise and network level).
-3. *[Canonical Models](3_Basics_CanonModels.ipynb)* : An overview of the different canonical models.
+1. *[Getting Started and Overview](Tutorial_Notebooks/1_GettingStarted.ipynb)* : A quick overview of what Stimulus-Response Network Analysis is. Use the sample graph with 8 nodes.
+2. *[Calculating Response to Stimulus and Metrics](Tutorial_Notebooks/2_Basics_StimRespMetrics.ipynb)* : Fundamentals of Stimulus-Response Network Analysis. Undertanding the stimulus-responses at all levels (pairs-wise, node-wise and network level).
+3. *[Canonical Models](Tutorial_Notebooks/3_Basics_CanonModels.ipynb)* : An overview of the different canonical models.
 4. Also check the different usecases for practical applications of the analysis framework.
 
 
