@@ -34,6 +34,7 @@ Temptative list and content of the Tutorials:
 	3. Examples: directed and undirected chains.
     - **MG: I wouldn't talk about TTP in this notebook, leave it for notebook #5**
 	5. **MG: I would move this to notebook #6** Validity in weighted networks.
+	6. TODO: Add a figure visualizing how the 3D tensor can be reduced along different axes giving different measures and infos: over time, row-wise, column-wise, etc. 
 3. *[Canonical models](#)* : Overview of the five canonical models. Use one simple graph ('TestNet\_N8.txt'?) *__Q: Should we actually have one (short) notebook per canonical model?__*
 	1. Start this Notebook showing how typical graph metrics can be associated to the discrete cascade.
 	2. For all the five models, plot the time-series and the responses.  This way, we would plot, for each model and a couple of test networks: 
