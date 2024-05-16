@@ -15,8 +15,9 @@
 
 (Temptative) list of documents (.md files) that we should have.
 
-- (DONE) 1. What is sireneta? Overall description of what is Stimulus-Response Network Analysis.
-- 2. Canonical models. Summary of the (for now) five canonical models. Their equations and illustrations of the time-series for some simple graph (e.g., the N8 graph in the Chaos paper).
+1. (DONE) 1. What is sireneta? Overall description of what is Stimulus-Response Network Analysis.
+2. Canonical models. Summary of the (for now) five canonical models. Their equations and illustrations of the time-series for some simple graph (e.g., the N8 graph in the Chaos paper).
+3. Main summary of what the 3D Rij(t) pair-wise response tensor is, how to interpret and how to reduce along different axes to obtain node-wise and global responses, and the time-integrated responses. Show a good diagram of a 3D Rij(t) tensor and its different possible projections. This goes a bit in line with the Tutorial NB #2.
 
 
 
