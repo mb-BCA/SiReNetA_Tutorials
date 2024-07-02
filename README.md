@@ -20,16 +20,16 @@ This repository is the entry point for interested users of *Stimulus-Response Ne
 
 #### Tutorial notebooks
 
-1. *[Getting Started and Overview](Notebooks_Tutorials/1_GettingStarted.ipynb)* : Installing *SiReNetA* and a first example using Stimulus-Response Network Analysis.
-2. *[Response to Stimulus and Calculating Metrics](Notebooks_Tutorials/2_Basics_StimRespMetrics.ipynb)* : Fundamentals of Stimulus-Response Network Analysis. Undertanding the stimulus-responses at all levels (pair-wise, node-wise and network level). Illustration and interpretation of pair-wise responses for undirected and directed chains. Global-responses, time-to-peak / time-to-saturation distances. **NOT THERE YET, BUT NEEDED??? Comparison of TTP for leaky-cascade and the continuous diffusion (as used in Arnaudon's paper).**
-3. *[Canonical Propagation Models](Notebooks_Tutorials/3_Basics_CanonModels.ipynb)* : Presentation of the different canonical models.
+1. *[Getting Started and Overview](Tutorial_Notebooks/1_GettingStarted.ipynb)* : Installing *SiReNetA* and a first example using Stimulus-Response Network Analysis.
+2. *[Response to Stimulus and Calculating Metrics](Tutorial_Notebooks/2_Basics_StimRespMetrics.ipynb)* : Fundamentals of Stimulus-Response Network Analysis. Undertanding the stimulus-responses at all levels (pair-wise, node-wise and network level). Illustration and interpretation of pair-wise responses for undirected and directed chains. Global-responses, time-to-peak / time-to-saturation distances. **NOT THERE YET, BUT NEEDED??? Comparison of TTP for leaky-cascade and the continuous diffusion (as used in Arnaudon's paper).**
+3. *[Canonical Propagation Models](Tutorial_Notebooks/3_Basics_CanonModels.ipynb)* : Presentation of the different canonical models.
 
 
 #### Use-cases, in-depth topics and examples
 
-- *[Comparing Networks](Notebooks_Tutorials/4_UseCase_CompareNets.ipynb)* : Use-Case. Illustration of how renormalization of connectivity allows for network comparison under *SRNA*, without the need of generating surrogates.
-- *[Network Distance](Notebooks_Tutorials/5_UseCase_NetDist.ipynb)* : In-Depth. Generalization of the (geodesic) graph distance between nodes as *response times*. Validity for weighted networks.
-- *[Weighted Networks](Notebooks_Tutorials/6_Basics_WeightedNets.ipynb)* : Use case to show the natural ability of *SRNA* to deal with weighted networks.
+- *[Comparing Networks](Tutorial_Notebooks/UseCase_CompareNets.ipynb)* : Use-Case. Illustration of how renormalization of connectivity allows for network comparison under *SRNA*, without the need of generating surrogates.
+- *[Network Distance](Tutorial_Notebooks/UseCase_NetDist.ipynb)* : In-Depth. Generalization of the (geodesic) graph distance between nodes as *response times*. Validity for weighted networks.
+- *[Weighted Networks](Tutorial_Notebooks/UseCase_WeightedNets.ipynb)* : Use case to show the natural ability of *SRNA* to deal with weighted networks.
 - *[Graph metrics from dynamics](#)* : In-Depth. Demonstration of how classical (combinatorial) graph metrics are derived from a dynamical perspective.
 
 
