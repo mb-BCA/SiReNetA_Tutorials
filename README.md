@@ -21,9 +21,9 @@ This repository is the entry point for interested users of *Stimulus-Response Ne
 
 #### Tutorial notebooks
 
-1. *[Getting Started and Overview](./Notebooks_Tutorials/1_GettingStarted.ipynb)* : Installing *SiReNetA* and a first example using Stimulus-Response Network Analysis.
-2. *[Response to Stimulus and Calculating Metrics](./Notebooks_Tutorials/2_Basics_StimRespMetrics.ipynb)* : Fundamentals of Stimulus-Response Network Analysis. Undertanding the stimulus-responses at all levels (pair-wise, node-wise and network level). Illustration and interpretation of pair-wise responses for undirected and directed chains. Global-responses, time-to-peak / time-to-saturation distances.
-3. *[Canonical Propagation Models](Notebooks_Tutorials/3_Basics_CanonModels.ipynb)* : Presentation of the different canonical models.
+1. *[Getting Started and Overview](https://github.com/mb-BCA/SiReNetA_Tutorials/blob/master/Tutorial_Notebooks/1_GettingStarted.ipynb)* : Installing *SiReNetA* and a first example using Stimulus-Response Network Analysis.
+2. *[Response to Stimulus and Calculating Metrics](https://github.com/mb-BCA/SiReNetA_Tutorials/blob/master/Tutorial_Notebooks/2_Basics_StimRespMetrics.ipynb)* : Fundamentals of Stimulus-Response Network Analysis. Undertanding the stimulus-responses at all levels (pair-wise, node-wise and network level). Illustration and interpretation of pair-wise responses for undirected and directed chains. Global-responses, time-to-peak / time-to-saturation distances.
+3. *[Canonical Propagation Models](https://github.com/mb-BCA/SiReNetA_Tutorials/blob/master/Tutorial_Notebooks/3_Basics_CanonModels.ipynb)* : Presentation of the different canonical models.
 
 
 #### Use-cases, in-depth topics and examples
