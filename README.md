@@ -1,4 +1,5 @@
-> WARNING: REPOSITORY UNDER CONSTRUCTION !! First complete release expected during May 2024, stay tuned ! Or follow @GZamora_Lopez in Twitter.
+> WARNING: REPOSITORY UNDER CONSTRUCTION !! Stay tuned or follow 
+‪@gzamora-lopez.bsky.social‬ in Bluesky for updates.
 
 # SiReNetA – Tutorials
 ### Stimulus-Response Network Analysis (SRNA) …
@@ -20,8 +21,8 @@ This repository is the entry point for interested users of *Stimulus-Response Ne
 
 #### Tutorial notebooks
 
-1. *[Getting Started and Overview](Notebooks_Tutorials/1_GettingStarted.ipynb)* : Installing *SiReNetA* and a first example using Stimulus-Response Network Analysis.
-2. *[Response to Stimulus and Calculating Metrics](Notebooks_Tutorials/2_Basics_StimRespMetrics.ipynb)* : Fundamentals of Stimulus-Response Network Analysis. Undertanding the stimulus-responses at all levels (pair-wise, node-wise and network level). Illustration and interpretation of pair-wise responses for undirected and directed chains. Global-responses, time-to-peak / time-to-saturation distances.
+1. *[Getting Started and Overview](./Notebooks_Tutorials/1_GettingStarted.ipynb)* : Installing *SiReNetA* and a first example using Stimulus-Response Network Analysis.
+2. *[Response to Stimulus and Calculating Metrics](./Notebooks_Tutorials/2_Basics_StimRespMetrics.ipynb)* : Fundamentals of Stimulus-Response Network Analysis. Undertanding the stimulus-responses at all levels (pair-wise, node-wise and network level). Illustration and interpretation of pair-wise responses for undirected and directed chains. Global-responses, time-to-peak / time-to-saturation distances.
 3. *[Canonical Propagation Models](Notebooks_Tutorials/3_Basics_CanonModels.ipynb)* : Presentation of the different canonical models.
 
 
