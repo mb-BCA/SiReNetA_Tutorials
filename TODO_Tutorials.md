@@ -10,16 +10,21 @@
 	- **Focus points**. Discuss more in detail specific points. Deeper analysis, help understand some problem/point better.
 	- **Repro**. Reproduce paper figures and results.
 - TODO: Add a README.md file to the folder of the tutorial notebooks (?)
+- Make sure all relevant docs / notebooks are references in the "What next" subsections.
+- Revise all cross-referencing hyperlinks are correct, across introductory docs and tutorial notebooks.
+- Before launch, move all unfinished bussiness from different notebooks into a "scrapts collector" notebook.
 
-### Documentation, tutorial explanations, etc.
+
+### Introductory documentation and explanations
 
 (Temptative) list of documents (.md files) that we should have.
 
-1. (DONE) 1. What is sireneta? Overall description of what is Stimulus-Response Network Analysis.
+1. ~~What is sireneta?~~ Overall description of what is Stimulus-Response Network Analysis. FINISHED.
 2. Canonical models. Summary of the (for now) five canonical models. Their equations and illustrations of the time-series for some simple graph (e.g., the N8 graph in the Chaos paper).
-3. Main summary of what the 3D Rij(t) pair-wise response tensor is, how to interpret and how to reduce along different axes to obtain node-wise and global responses, and the time-integrated responses. Show a good diagram of a 3D Rij(t) tensor and its different possible projections. This goes a bit in line with the Tutorial NB #2.
-
-
+    - Add all the missing figures.
+    - Improve explanations.
+    - Provide conection to other names these models receive in the literature.
+3. Response tensors. Summary of what the 3D Rij(t) pair-wise response tensor is, how to interpret and how to reduce along different axes to obtain node-wise and global responses, and the time-integrated responses. Show a good diagram of a 3D Rij(t) tensor and its different possible projections. This goes a bit in line with the Tutorial NB #2.
 
 
 ### Tutorial Notebooks
@@ -52,11 +57,16 @@ Temptative list and content of the Tutorials:
 	- Self responses (returnability).
 
 
+### Reproduce paper figures (for Zamora-López & Gilson, Chaos 2024)
+
+- Create NB to reproduce Figure 2.
+- ~~Create NB to reproduce Figure 3.~~
+- ~~Create NB to reproduce Figure 4~~.
 
 
-### Specific examples
+### Specific examples (not urgent, for later maybe)
 
-Besides the basic tutorials, we can extend the content adding "Use Cases" and "Focus Points" to answer specific questions, specific uses or treat some points in more detail.
+Besides the basic tutorials, we could extend the content adding "Use Cases" and "Focus Points" to answer specific questions, specific uses or treat some points in more detail.
 
 Q: Should these go together into the "Tutorial_Notebooks/" folder, or should they have their own?
 ** MG: tutorials should present the basics and some key use cases**
@@ -72,14 +82,6 @@ Q: Should these go together into the "Tutorial_Notebooks/" folder, or should the
 - FOCUS POINT: A detailed explanation of how classical graph metrics arise from the discrete cascade.
 - FOCUS POINT(s): Q: Dedicate one specific NB for each canonical model?
 
-
-
-### Reproduce paper figures
-
-- Probably, we should have a specific folder for this. 
-- A notebook to reproduce results of Fig. 2 in the Chaos (2024) paper.
-- (DONE) A notebook to reproduce results of Fig. 3 in the Chaos (2024) paper.
-- (DONE) A notebook to reproduce results of Fig. 4 in the Chaos (2024) paper.
 
 
 
